@@ -60,6 +60,7 @@ AI tools are now essential in modern software development. They help you write c
 | [CodiumAI (Qodo)](https://www.qodo.ai/) | Generates unit tests for your .NET methods automatically |
 | [Diffblue Cover](https://www.diffblue.com/) | Enterprise tool that writes xUnit/NUnit tests for Java and .NET code |
 | [Copilot for unit tests](https://github.com/features/copilot) | Use GitHub Copilot chat with `/tests` command to generate test cases |
+| [Agent QA](https://github.com/vostride/agent-qa) | Language-independent external harness for natural-language web/mobile tests against deployed ASP.NET or .NET-backed apps, with persistent test memory; not a .NET package. FSL-1.1-ALv2, converting to Apache-2.0 after two years |
 
 ## AI for Architecture & Diagrams
 
