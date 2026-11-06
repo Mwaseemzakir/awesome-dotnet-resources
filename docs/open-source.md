@@ -34,3 +34,4 @@ Notable open source .NET projects to learn from, use, or contribute to.
 | Rebus | Simple and lean service bus for .NET | [rebus-org/Rebus](https://github.com/rebus-org/Rebus) |
 | IdentityServer | OpenID Connect and OAuth 2.0 framework | [DuendeSoftware/IdentityServer](https://github.com/DuendeSoftware/IdentityServer) |
 | ABP Framework | Modular application framework with DDD building blocks for ASP.NET Core | [abpframework/abp](https://github.com/abpframework/abp) |
+| CardinalityEstimation | C# library for memory-efficient approximate distinct counting using HyperLogLog | [saguiitay/CardinalityEstimation](https://github.com/saguiitay/CardinalityEstimation) |
