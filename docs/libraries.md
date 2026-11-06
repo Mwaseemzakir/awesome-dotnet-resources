@@ -13,6 +13,7 @@ List of NuGet Packages and their purpose in .NET, so that you can choose the rig
 | | [ZLogger](https://www.nuget.org/packages/ZLogger/) | Zero-allocation, high-performance structured logger for .NET |
 | | [Serilog.Sinks.Seq](https://www.nuget.org/packages/Serilog.Sinks.Seq/) | Serilog sink that ships structured logs to Seq |
 | | [Serilog.Sinks.Elasticsearch](https://www.nuget.org/packages/Serilog.Sinks.Elasticsearch/) | Serilog sink for shipping logs to Elasticsearch |
+| | [Serilog.Sinks.AzureDataExplorer](https://www.nuget.org/packages/Serilog.Sinks.AzureDataExplorer/) | Serilog sink for writing structured log events to Azure Data Explorer (Kusto) |
 | **Dependency Injection** | [Autofac](https://www.nuget.org/packages/Autofac/) | Feature-rich IoC container with modules and decorators |
 | | [Ninject](https://www.nuget.org/packages/Ninject/) | Lightweight, extensible dependency injection container |
 | | [SimpleInjector](https://www.nuget.org/packages/SimpleInjector/) | Fast, simple, and strongly-typed DI container |
