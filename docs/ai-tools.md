@@ -34,6 +34,7 @@ AI tools are now essential in modern software development. They help you write c
 | [GitHub Copilot CLI](https://githubnext.com/projects/copilot-cli/) | Explains and suggests shell commands, git commands, and scripts |
 | [Aider](https://aider.chat/) | Open-source AI pair programmer that works inside your terminal with git integration |
 | [Continue](https://www.continue.dev/) | Open-source AI code assistant you can self-host with any model |
+| [REA](https://github.com/morluto/rea) | Local CLI and MCP server for inspecting compiled .NET assemblies and comparing managed members across builds |
 
 ## AI for Code Review & Quality
 
