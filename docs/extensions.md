@@ -21,6 +21,7 @@ Productivity extensions that make .NET development faster and more pleasant. Gro
 | [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit) | Official Microsoft C# experience — project system, testing, and debugging. |
 | [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Supercharges Git with blame, history, and authorship insights. |
 | [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Opinionated code formatter for front-end files in .NET projects. |
+| [TodoForge](https://marketplace.visualstudio.com/items?itemName=onurkarakus.todoforge) | TODO/FIXME tree with owners, due dates, git blame, and a branch Changes view. Strong C# support. Offline, no telemetry. Also on [Open VSX](https://open-vsx.org/extension/onurkarakus/todoforge). |
 | [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) | File-specific icons for faster visual scanning. |
 
 ## Works in Both
