@@ -8,6 +8,10 @@
 
 Search your desired course from [Microsoft Learning](https://learn.microsoft.com/en-us/training/browse/) with 4000+ courses and 100+ learning paths.
 
+### Diagrid University
+
+🆓 [Durable Execution & Dapr University](https://www.diagrid.io/university) offers free, self-paced labs that run in the browser (sign-up required). The courses cover the Dapr APIs, Dapr Workflow (including with Aspire), and making Microsoft Agent Framework agents durable. Most courses include a .NET version.
+
 ---
 
 ## Paid Courses
