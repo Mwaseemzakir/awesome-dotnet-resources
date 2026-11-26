@@ -201,6 +201,7 @@ List of NuGet Packages and their purpose in .NET, so that you can choose the rig
 | **Compression** | [SharpZipLib](https://www.nuget.org/packages/SharpZipLib/) | Zip, GZip, tar, and BZIP2 compression library |
 | | [System.IO.Compression](https://www.nuget.org/packages/System.IO.Compression/) | Built-in compression support (GZip, Deflate, ZStd, Brotli) |
 | | [K4os.Compression.LZ4](https://www.nuget.org/packages/K4os.Compression.LZ4/) | Ultra-fast LZ4 compression and decompression |
+| | [XDeltaSharp](https://www.nuget.org/packages/xdelta/) | Creates and applies xdelta3-compatible VCDIFF binary patches in managed C# |
 | **Email** | [FluentEmail.Core](https://www.nuget.org/packages/FluentEmail.Core/) | Fluent email sending API with multiple provider support |
 | | [MailKit](https://www.nuget.org/packages/MailKit/) | Full-featured email client library (SMTP, IMAP, POP3) |
 | | [SendGrid](https://www.nuget.org/packages/SendGrid/) | Official SendGrid SDK for transactional email delivery |
